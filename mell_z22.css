@@ -1,0 +1,15 @@
+p{
+font-size: 22pt;
+color: red;
+}
+
+#gruby_meller{
+color: green;
+font-weight: bold;
+}
+
+#dlawszystkich_meller{
+color: yellow;
+font-size: 10pt;
+font-family: Arial;
+}
